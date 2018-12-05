@@ -7,10 +7,10 @@
 [Bb]uild/  
 [Oo]bj/  
 *.o  
+*.exe
 [Dd]ebug*/  
 [Rr]elease*/  
 *.mode*  
-*.exe
 *.app/  
 *.pyc  
 *.log  
